@@ -1,6 +1,24 @@
 # LearningRetro
 Retro for learning progress - perform every week!
 
+## Mar 26, 2021
+Good:
+- Fields in the object
+- Learned substring
+- Refactor duplicated code into for-loop
+- Unit test helpful
+
+Bad:
+- Difficulty dealing with Objects
+- Sequence of events
+- Lacking english terminology
+
+Improvement:
+- More Objects
+- Move in smaller steps
+- Continue with unit tests
+- Write down all terminology using during exercise
+
 
 ## Mar 19, 2021
 Good:
